@@ -126,3 +126,24 @@ header .logo {
   width: 50%;
   height: auto;
 }
+
+section {
+  margin: 20px 0;
+}
+
+.section-title {
+  font-size: 1.5em;
+  font-weight: 600;
+}
+
+.section-content {
+  margin-top: 15px;
+}
+
+.tagline {
+  font-style: italic;
+}
+
+.list-content {
+  margin-bottom: 15px;
+}
