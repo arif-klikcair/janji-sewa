@@ -1,0 +1,128 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla:wght@300;400;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+p,
+ul,
+li,
+ol,
+li,
+span {
+  font-size: 14px;
+  font-family: "Karla";
+  color: #333;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+a.no-style {
+  font-size: 14px;
+  font-family: "Karla";
+  color: #333;
+  text-decoration: none;
+}
+a.no-style:hover,
+a.no-style:active {
+  color: #333;
+}
+
+b {
+  font-family: "Karla";
+  font-weight: 700;
+}
+
+ol,
+ul {
+  margin: 0px;
+  padding: 0px;
+  margin-bottom: 15px;
+}
+ol li,
+ul li {
+  margin-left: 25px;
+}
+
+ol li.judul-list,
+ul li.judul-list {
+  font-family: "Karla";
+  font-weight: 700;
+  list-style: none;
+  margin: 0px;
+}
+
+.wrapper {
+  width: 100%;
+  max-width: 480px;
+  margin: 0px auto;
+}
+
+footer {
+  width: 100%;
+  font-size: 12px;
+  font-family: "Karla";
+  text-align: center;
+  padding: 10px 0 15px;
+}
+
+footer .menu-bottom {
+  margin-top: 15px;
+  padding-top: 15px;
+  border-top: 1px solid #dfdfdf;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+footer .menu-bottom a {
+  margin-right: 15px;
+  font-size: 13px;
+  color: #333;
+  font-family: "Karla";
+}
+
+a.button {
+  text-decoration: none;
+  text-align: center;
+}
+
+.button {
+  font-size: 13px;
+  font-family: "Karla";
+  font-weight: bold;
+  color: #fff;
+  display: block;
+  width: 100%;
+  margin-bottom: 7.5px;
+  padding: 12.5px;
+  border: none;
+  border-radius: 3px;
+}
+.button-secondary {
+  color: #06a944;
+  border: 1px solid #06a944;
+}
+.button-secondary:hover,
+.button-secondary:active {
+  color: #06a944;
+}
+.button-primary {
+  background: #06a944;
+}
+.button-primary:hover,
+.button-primary:active {
+  color: #fff;
+}
+
+header {
+  padding-top: 25px;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+header .logo {
+  width: 50%;
+  height: auto;
+}
