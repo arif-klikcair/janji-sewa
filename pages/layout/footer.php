@@ -10,6 +10,10 @@
             <a href="<?=base_url();?>/tentang-kami">Tentang Kami</a>
             <a href="<?=base_url();?>/faq">FAQ</a>
         </div>
-        <div class="sharethis-inline-share-buttons"></div>
+        
+        <div class="d-flex align-items-end justify-content-between">
+            <small class="text-muted me-2 d-block">Share this page </small>
+            <div class="sharethis-inline-share-buttons"></div>
+        </div>
     </div>
 </footer>
