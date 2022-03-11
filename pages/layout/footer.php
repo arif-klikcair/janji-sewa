@@ -5,8 +5,11 @@
         <span><b>Email.</b> <a class="no-style" href="mailto:<?=$contact_email?>"><?=$contact_email?></a></span>
     </div>
 
-    <div class="menu-bottom">
-        <a href="<?=base_url();?>/tentang-kami">Tentang Kami</a>
-        <a href="<?=base_url();?>/faq">FAQ</a>
+    <div class="menu-bottom d-flex align-items-center justify-content-between">
+        <div>
+            <a href="<?=base_url();?>/tentang-kami">Tentang Kami</a>
+            <a href="<?=base_url();?>/faq">FAQ</a>
+        </div>
+        <div class="sharethis-inline-share-buttons"></div>
     </div>
 </footer>
