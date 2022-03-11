@@ -46,8 +46,7 @@
     </script>
 
     <!--Share this-->
-    <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=622acecee2803e0019ddaccb&product=sop' async='async'></script>    
-</head>
+    <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=622a1a07e00e31001acff496&product=inline-share-buttons' async='async'></script></head>
 
 <body>
     <div class="wrapper">

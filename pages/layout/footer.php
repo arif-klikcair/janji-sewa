@@ -11,8 +11,8 @@
             <a href="<?=base_url();?>/faq">FAQ</a>
         </div>
         
-        <div class="d-flex align-items-end justify-content-between">
-            <small class="text-muted me-2 d-block">Share this page </small>
+        <div class="d-flex align-items-center justify-content-between">
+            <span class="me-2 d-block">Bagikan </span>
             <div class="sharethis-inline-share-buttons"></div>
         </div>
     </div>
